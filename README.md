@@ -22,4 +22,4 @@ To analyze and visualise data, python libraries were used (NumPy, Pandas, matplo
 11. The oldest male leader is Strijdom (150 years old) from South Africa, while the youngest female leader is Kurz (37 years old) from Austria
 12. Only one leader from Poland had Military Career. It was Jaruzelski
 13.  Only one leader from USA had Military Career. It was Eisenhower.
-14.  Pinay, Mayer,Bourges-Maunory, De Gaulle  Leaders from France had Military Career
+14.  Pinay, Mayer,Bourges-Maunory, De Gaulle  leaders from France had Military Career
